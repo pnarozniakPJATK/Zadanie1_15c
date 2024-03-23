@@ -14,3 +14,8 @@ static double CalculateAverage(int[] ints)
 {
     return ints.Average();
 }
+
+static double GetMaxValue(int[] ints)
+{
+    return ints.Max();
+}
